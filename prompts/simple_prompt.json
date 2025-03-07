@@ -1,0 +1,5 @@
+{
+  "_type": "prompt",
+  "input_variables": ["name", "what"],
+  "template": "你好，我是{name}，我想知道{what}。"
+}
